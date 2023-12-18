@@ -2,9 +2,9 @@
 # HackerRank SQL challenge's solutions
 This repository is a collection of  solutions of SQL challenges of [HackerRank](https://www.hackerrank.com).
 
-## SQL
+## MySQL
 
-I have used MYSQL for the soving chllenges.
+I have used MySQL for the soving chllenges.
 
 ### Basic Select
 
