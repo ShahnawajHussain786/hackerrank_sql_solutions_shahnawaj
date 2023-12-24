@@ -92,7 +92,7 @@ Challenge | Score | Solution
 --- | --- | ---
 [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | 25 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
 [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | 25 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
-[Print Prime Numbers](https://www.hackerrank.com/challenges/print_prime_numbers/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Alternative%20Queries/Print%20Prime%20Numbers.sql)
+[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Alternative%20Queries/Print%20Prime%20Numbers.sql)
 
 
 
