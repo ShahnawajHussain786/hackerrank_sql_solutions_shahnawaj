@@ -67,24 +67,24 @@ Challenge | Score | Solution
 
 Challenge | Score | Solution
 --- | --- | ---
-[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Asian%20Population.sql)
-[African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/African%20Cities.sql)
-[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
-[The Report](https://www.hackerrank.com/challenges/the-report/problem) | 20 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/The%20Report.sql)
-[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Top%20Competitors.sql)
-[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Ollivander's%20Inventory.sql)
-[Challenges](https://www.hackerrank.com/challenges/challenges/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Challenges.sql)
-[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Contest%20Leaderboard.sql)
+[Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Asian%20Population.sql)
+[African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/African%20Cities.sql)
+[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+[The Report](https://www.hackerrank.com/challenges/the-report/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/The%20Report.sql)
+[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Top%20Competitors.sql)
+[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Ollivander's%20Inventory.sql)
+[Challenges](https://www.hackerrank.com/challenges/challenges/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Challenges.sql)
+[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Basic%20Join/Contest%20Leaderboard.sql)
 
 ### Advanced Join
 
 Challenge | Score | Solution
 --- | --- | ---
-[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | 40 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/SQL%20Project%20Planning.sql)
-[Placements](https://www.hackerrank.com/challenges/placements/problem) | 40 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/Placements.sql)
-[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | 40 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/Symmetric%20Pairs.sql)
-[Interviews](https://www.hackerrank.com/challenges/interviews/problem) | 50 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/Interviews.sql)
-[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | 50 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/15%20Days%20of%20Learning%20SQL.sql)
+[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/SQL%20Project%20Planning.sql)
+[Placements](https://www.hackerrank.com/challenges/placements/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/Placements.sql)
+[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/Symmetric%20Pairs.sql)
+[Interviews](https://www.hackerrank.com/challenges/interviews/problem) | 50 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/Interviews.sql)
+[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | 50 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Join/15%20Days%20of%20Learning%20SQL.sql)
 
 ### Alternative Queries
 
