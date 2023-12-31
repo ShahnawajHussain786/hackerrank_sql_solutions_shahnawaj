@@ -1,4 +1,4 @@
-[![HackerRank logo](https://camo.githubusercontent.com/8f0c3d11e518f0b193459a150c8f7f7897f45221c5a9728c1dd6d85d8900de07/68747470733a2f2f687263646e2e6e65742f6861636b657272616e6b2f6173736574732f6861636b657272616e6b6c6f676f5f677265656e2d663538316436623261623135353434313837643230306562393131366435393231636134653631653030613738356664343039613962303032376437366131382e706e67)](https://www.hackerrank.com/profile/shahnawajh_ug191)
+[![HackerRank logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYh6ZhmOz1uhsPeVVGZ6Kz_pH6BbcYlLC_7B19Cl2-tr9-kBhWIgvELsHRmg37Q3wkg&usqp=CAU)](https://www.hackerrank.com/profile/shahnawajh_ug191)
 # HackerRank SQL challenge's solutions
 This repository is a collection of  solutions of SQL challenges of [HackerRank](https://www.hackerrank.com).
 
