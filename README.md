@@ -35,33 +35,33 @@ Challenge | Score | Solution
 
 Challenge | Score | Solution
 --- | --- | ---
-[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | 20 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/Type%20of%20Triangle.sql)
-[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/The%20PADS.sql)
-[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/Occupations.sql)
-[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/Binary%20Tree%20Nodes.sql)
-[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/New%20Companies.sql)
+[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/Type%20of%20Triangle.sql)
+[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/The%20PADS.sql)
+[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/Occupations.sql)
+[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/Binary%20Tree%20Nodes.sql)
+[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Advanced%20Select/New%20Companies.sql)
 
 ### Aggregation
 
 Challenge | Score | Solution
 --- | --- | ---
-[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
-[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
-[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
-[Average Population](https://www.hackerrank.com/challenges/average-population/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Average%20Population.sql)
-[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Japan%20Population.sql)
-[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Population%20Density%20Difference.sql)
-[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | 15 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/The%20Blunder.sql)
-[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | 20 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Top%20Earners.sql)
-[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | 15 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%202.sql)
-[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2013.sql)
-[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2014.sql)
-[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | 15 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2015.sql)
-[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | 10 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2016.sql)
-[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | 15 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2017.sql)
-[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | 25 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2018.sql)
-[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | 30 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2019.sql)
-[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | 40 | [Solution](ShahnawajHussain786/hackerrank_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2020.sql)
+[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+[Average Population](https://www.hackerrank.com/challenges/average-population/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Average%20Population.sql)
+[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Japan%20Population.sql)
+[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Population%20Density%20Difference.sql)
+[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | 15 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/The%20Blunder.sql)
+[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | 20 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Top%20Earners.sql)
+[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | 15 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%202.sql)
+[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2013.sql)
+[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2014.sql)
+[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | 15 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2015.sql)
+[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | 10 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2016.sql)
+[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | 15 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2017.sql)
+[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | 25 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2018.sql)
+[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | 30 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2019.sql)
+[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | 40 | [Solution](https://github.com/ShahnawajHussain786/hackerrank_sql_solutions_shahnawaj/blob/master/MYSQL/Aggregation/Weather%20Observation%20Station%2020.sql)
 
 ### Basic Join
 
