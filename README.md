@@ -1,6 +1,6 @@
 [![HackerRank logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYh6ZhmOz1uhsPeVVGZ6Kz_pH6BbcYlLC_7B19Cl2-tr9-kBhWIgvELsHRmg37Q3wkg&usqp=CAU)](https://www.hackerrank.com/profile/shahnawajh_ug191)
 # HackerRank SQL challenge's solutions
-This repository is a collection of  solutions of SQL challenges of [HackerRank](https://www.hackerrank.com).
+This repository is a collection of  solutions of SQL challenges of [HackerRank](https://www.hackerrank.com/domains/sql?badge_type=sql).
 
 ## MySQL
 
